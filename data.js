@@ -24,8 +24,8 @@ var APP_DATA = {
       ],
       "faceSize": 1440,
       "initialViewParameters": {
-        "yaw": -2.544499484481964,
-        "pitch": -0.092070670671065,
+        "yaw": -2.405565202326983,
+        "pitch": -0.19563501165849573,
         "fov": 1.2933209261323464
       },
       "linkHotspots": [
@@ -50,10 +50,22 @@ var APP_DATA = {
           "text": "Welcome to a virtual tour of the Tŷ Mawr Wybrnant water turbine system. This system serves as a showcase of the potential for generating clean hydroelectricity for self-consumption in a cost-effective way.<div><br></div><div>To proceed with the tour, please make your way to the powerhouse and then the river intake scene by clicking on the ^ signs. Please explore around each scene and click on the 'i' signs for information on each scene.<br></div><div><br></div><div><p class=\"MsoNormal\"><span lang=\"EN-US\">This project is a collaboration between\nBangor University, Trinity College Dublin, and National Trust. It was made\npossible due to the support the ERDF Interreg Ireland-Wales Programme\n2014-2020, through the Dŵr Uisce Project.</span></p></div>"
         },
         {
-          "yaw": 2.957511482512367,
-          "pitch": -0.4262260647416092,
+          "yaw": -3.1084735106673804,
+          "pitch": -0.0964576681519187,
           "title": "Tŷ Mawr Wybrnant",
           "text": "The 16th century historical farmhouse of Tŷ Mawr Wybrnant is a renowned touristic site in Northern Wales managed by National Trust. In an effort to reduce the energy consumption related to lighting and heating of the building, a small hydropower scheme has been installed to generate about 4 kW from the water of the nearby Afon Wybrnant stream. Water is abstracted from the river at a higher elevation (+35 m) and is then carried via a 300 m pipeline up to the powerhouse. After generating electricity in the turbine, the water rejoins the stream next to the historical farmhouse."
+        },
+        {
+          "yaw": -2.0000661445730454,
+          "pitch": 0.15861113166861784,
+          "title": "The Afon Wybrnant Stream",
+          "text": "The Afon Wybrnant stream is used to supply water to the turbine in the Powerhouse to generate electricity.&nbsp;"
+        },
+        {
+          "yaw": -1.4099027336634968,
+          "pitch": -0.11298596155402052,
+          "title": "Caretaker's House",
+          "text": "Lodgings for a caretaker appointed by the National Trust."
         }
       ]
     },
@@ -111,6 +123,12 @@ var APP_DATA = {
           "pitch": 0.08696100640634263,
           "title": "Turbine",
           "text": "The turbine used for this system is a conventional water pump modified to operate in reverse as a turbine, with a maximum power output of around 4 kW.<div><br></div><div>Please continue the tour by clicking on the ^ sign on the shed to proceed to the river intake or click back on the second ^ sign to return to the main courtyard.<br></div>"
+        },
+        {
+          "yaw": -2.2852321399869506,
+          "pitch": -0.12044365610031349,
+          "title": "Caretaker's House",
+          "text": "This is the house&nbsp;"
         }
       ]
     },
