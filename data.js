@@ -128,7 +128,7 @@ var APP_DATA = {
           "yaw": -2.2852321399869506,
           "pitch": -0.12044365610031349,
           "title": "Caretaker's House",
-          "text": "This is the house&nbsp;"
+          "text": "Lodgings for a caretaker appointed by the National Trust."
         }
       ]
     },
